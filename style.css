@@ -1,0 +1,141 @@
+html,body,h1,h2,h3,h4,h5,h6,p,b,mark,i,u,a{
+     font-family: 'Homemade Apple', cursive;
+     font-family: 'Style Script', cursive;
+     font-family: 'Work Sans', sans-serif;
+}
+.margin
+/* ----------navbar-section--------- */
+nav a{
+     font-size: 17px;
+}
+nav li{
+     padding:0 10px;
+}
+/* ----------about-section------------ */
+/* ----------about-section------------ */
+.about-section b{
+     font-weight: 400;
+     font-size: 25px;
+}
+.about-section h2{
+     font-weight: 400;
+     font-size: 50px;
+}
+.about-section p{
+     font-weight: 400;
+     font-size: 1rem;
+}
+.padding-1{
+     padding-right: 0;
+}
+.about-section button{
+     background-color:#8392fd;
+     font-size: 16px;
+}
+.img-1{
+     object-fit: cover;
+     width: fit-content;
+}
+.img-2{
+     width: fit-content;
+     object-fit: cover;
+}
+.about-section a{
+     text-decoration: none;
+     color:white;
+}
+/* counting-section */
+.counting-section{
+     background-color:#8490ff;
+}
+.paddingY-10{
+     padding:100px 0px;
+     text-align: center;
+     color:white;
+}
+/* ------our-app-section-------- */
+.our-app-section{
+     background-color:#f9f9ff;
+}
+.our-app-section a{
+     font-weight: 600;
+}
+.card-body p{
+     font-size: 1.1rem;
+}
+.bg-bdy{
+     background-color: #eeeef6;
+}
+.round{
+     width:100px;
+     height:100px;
+     line-height: 100px;
+}
+.line-height-5{
+     line-height: 55px;
+}
+.padding{
+     width: 100% !important;
+     height: 100%;
+     padding: 50px 0;
+}
+
+.text{
+     font-weight: 300;
+}
+.shadow-1{
+     box-shadow: 0px 0px 6px 0.1px rgb(0, 103, 238);
+}
+/* ---our-website-section------ */
+.our-website-section .p{
+     font-weight: 400 !important;
+     font-size: 2rem;
+}
+.our-website-section p{
+     font-weight: 300 !important;
+     font-size: 1.2rem;
+}
+.item-4 img{
+   margin-top: -130px;
+   width: 100px;
+   margin-left: -6px;
+     
+}
+.item-4{
+     padding: 30px 20px;
+}
+/* -----------form-section------------ */
+/* -----------form-section------------ */
+.form-section{
+     background-color: #ebeff4;
+
+}
+.form-section h2{
+     font-weight: 400;
+}
+.font-size-1{
+     font-weight: 400;
+     font-size: 1.4rem;
+}
+.col-uk{
+     width:60%;
+     
+}
+.col-ukay{
+     width:40%;
+     margin-top: 100px;
+}
+input{
+     font-size: 1.4rem !important;
+}
+textarea{
+     font-size: 1.2rem !important
+}
+.address p{
+     font-size: 1.8rem;
+     font-weight: 500;
+}
+address{
+     font-size: 1.3rem;
+     line-height: 3rem;
+}
